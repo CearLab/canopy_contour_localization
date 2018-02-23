@@ -1,1 +1,1 @@
-# contour_based_localization
+# canopy_contour_localization
