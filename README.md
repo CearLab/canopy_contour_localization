@@ -17,3 +17,6 @@ Copy the relevant bag file
 roslaunch contour_based_localization global_localization_comparison.launch
 rosbag play <name_of_bag.bag>
 ```
+
+## Data
+Available in https://drive.google.com/open?id=1pcCh1iWMyDpUokzW0wuFARI15O9Fz3SG
